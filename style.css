@@ -1,0 +1,89 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  line-height: 1.6;
+  background: #f8fafc; /* Light blueish-gray background */
+  color: #111827; /* Almost black for better contrast */
+  padding: 20px;
+}
+
+header {
+  background: #0d6efd; /* Bootstrap primary blue */
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  padding: 10px 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 10px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav ul li a:hover {
+  text-decoration: underline;
+  color: #ff6347; /* Tomato red on hover */
+}
+
+section {
+  margin: 40px 0;
+  padding: 20px;
+  background: #ffffff; /* Clean white section cards */
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1); /* Subtle shadow */
+}
+
+section h2 {
+  margin-bottom: 15px;
+  font-size: 28px;
+  color: #0d6efd;
+  border-bottom: 2px solid #0dcaf0;
+  display: inline-block;
+  padding-bottom: 5px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 40px;
+  padding: 10px;
+  background: #0d6efd;
+  color: #fff;
+  border-radius: 4px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Responsive navbar on mobile */
+@media (max-width: 600px) {
+  nav ul li {
+    display: block;
+    margin: 10px 0;
+  }
+}
+
+#projects ul li {
+  margin-bottom: 20px;
+  line-height: 1.5;
+}
+
+#projects ul li strong {
+  color: #0d6efd;
+  font-size: 16px;
+}
