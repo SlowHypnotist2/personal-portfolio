@@ -1,46 +1,65 @@
 # Manpreet Singh - Personal Portfolio
 
-This is my personal portfolio website, designed to showcase my journey as a web developer. I'm focused on building clean, responsive, and user-friendly web experiences.
+This is my personal portfolio website, built to showcase my journey as a web developer. I’m focused on creating clean, responsive, and user-friendly web experiences.
 
-## About Me
+---
 
-Hello! I'm Manpreet Singh, an aspiring web developer with a passion for turning ideas into reality through code. I'm currently building my skills in front-end development, with a focus on HTML, CSS, and JavaScript.
+## 👨‍💻 About Me
 
-I believe in continuous learning and am always eager to expand my knowledge and take on new challenges. While I'm still developing my expertise, I'm committed to writing clean, well-organized code and creating positive user experiences.
+Hello! I'm **Manpreet Singh**, an aspiring web developer with a passion for turning ideas into reality through code.  
+Currently, I’m learning and building in front-end development — focusing on **HTML**, **CSS**, and **JavaScript**.
 
-## Skills
+I'm committed to continuous learning, writing clean and maintainable code, and designing meaningful user experiences.
 
-Here are the technologies I'm currently working with:
+---
 
-* **HTML:** Building the structure of web pages.
-* **CSS:** Styling web pages to be visually appealing.
-* **JavaScript:** Adding interactivity to web pages (Basic level - actively learning more!).
-* **Git & GitHub:** For version control and collaboration.
-* **Microsoft Excel:** For data analysis and reporting (related to my professional experience, and I sometimes use it in web projects for handling data).
+## 🛠️ Skills
 
-## Projects
+Here are the technologies I’m currently working with:
 
-This portfolio showcases the projects I've built to practice and demonstrate my skills:
+- **HTML** – Structuring web pages
+- **CSS** – Styling and responsive design
+- **JavaScript** – Basic scripting and DOM concepts (actively learning more!)
+- **Git & GitHub** – Version control and collaboration
+- **Microsoft Excel** – Data analysis and reporting (used in previous roles and web-related data tasks)
+- **AI Tools** – Daily user of ChatGPT, Gemini, and Microsoft Copilot for code, content, automation, and research
 
-* **Personal Portfolio Website:** This very website! It's built from scratch using HTML and CSS to present my work and skills. (GitHub repository: \[Link to be added soon])
-* **To-Do List Layout:** A static design for a To-Do List application, created with HTML and CSS. I plan to add JavaScript functionality to make it fully interactive. (GitHub repository: \[Link to be added soon])
-* **Product Landing Page:** A landing page designed to showcase a product or service, built with HTML and CSS. (GitHub repository: \[Link to be added soon])
+---
 
-**Note on Project Links:** I'm still in the process of finalizing and deploying these projects. The GitHub links will be updated as soon as they are available. Thank you for your patience!
+## 📂 Projects
 
-## Why This Portfolio?
+### 🔹 [Personal Portfolio Website](https://slowhypnotist2.github.io/personal-portfolio/)  
+A clean, responsive portfolio website built using HTML and CSS. Showcases my projects, skills, and contact information.  
+[GitHub Repository](https://github.com/SlowHypnotist2/personal-portfolio)
 
-I created this portfolio to:
+### 🔹 To-Do List Layout (HTML, CSS)  
+A static layout design for a To-Do List application. I plan to add JavaScript functionality to make it interactive.  
+*GitHub link coming soon*
 
-* Document my learning journey as a web developer.
-* Showcase my current skills and projects to potential collaborators or employers.
-* Get feedback and connect with other developers.
+### 🔹 Product Landing Page (Coming Soon)  
+A product landing page designed with HTML and CSS to demonstrate layout and styling skills.  
+*GitHub link coming soon*
 
-## Connect with Me
+---
 
-* Email: [manpreetsingh10195@gmail.com](mailto:manpreetsingh10195@gmail.com)
-* Phone: +91 9871747842
+## 🤝 Why This Portfolio?
 
-## Let's Collaborate!
+- To document my learning journey as a web developer  
+- To showcase my skills and projects  
+- To connect and collaborate with others in the tech community
 
-I'm open to collaborating on projects and learning from others. If you have any suggestions or just want to connect, feel free to reach out!
+---
+
+## 📬 Contact Me
+
+- **Email**: manpreetsingh10195@gmail.com  
+- **Phone**: +91 9871747842
+
+---
+
+## 🤝 Let’s Collaborate!
+
+I’m open to freelance work, collaboration, and continuous learning.  
+If you have any feedback, opportunities, or ideas — feel free to reach out!
+
+
